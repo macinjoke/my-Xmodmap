@@ -1,2 +1,3 @@
 # my-Xmodmap
-my .Xmodmap setting
+- my .Xmodmap setting
+- public domain
