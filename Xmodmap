@@ -1,0 +1,16 @@
+remove lock = Caps_Lock
+
+keycode 66 = Control_L
+keycode 102 = Escape
+keycode 100 = Mode_switch
+keycode 101 = Alt_R
+
+keycode 43 = h H Left Left
+keycode 44 = j J Down Down
+keycode 45 = k K Up Up
+keycode 46 = l L Right Right
+
+keycode 54 = c C Caps_Lock Caps_Lock
+
+add control = Control_L
+add mod1 = Alt_R
