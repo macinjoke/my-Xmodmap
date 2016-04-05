@@ -16,3 +16,4 @@ keycode 54 = c C Caps_Lock Caps_Lock
 
 add control = Control_L
 add mod1 = Alt_R
+add mod5 = Mode_switch
