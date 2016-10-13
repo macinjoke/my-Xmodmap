@@ -1,3 +1,6 @@
+! This file is Xmodmap setting for filco keyboard(CK-67CMB-BWJP1).
+! Comment out line is original setting.
+
 remove lock = Caps_Lock
 
 keycode 66 = Control_L
@@ -31,4 +34,11 @@ keycode 18 = 9 parenright F9 F9
 keycode 19 = 0 asciitilde F10 F10
 keycode 20 = minus equal F11 F11
 keycode 21 = asciicircum asciitilde F12 F12
+
+! setting for filco
+keycode 9 = Zenkaku_Hankaku
+remove shift = Shift_R
+keycode 111 = Shift_R
+keycode 62 = Up
+add shift = Shift_R
 
